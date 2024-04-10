@@ -65,6 +65,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 - Data stored in a SQL database
 - Project structure follows the layer model architecture
 
+- ## System
+The system is still under construction.
+Please be patient.
+For any question or problem you can contact: racheli7601226@gmail.com
+
+
 ## Learn More
 
 For more information, you can refer to the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
